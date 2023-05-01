@@ -52,3 +52,13 @@
 **Направление деятельности:** Data Analyst.
 
 ---
+
+#### Мои контакты:
+
+телефон: **+7 (901) 943-17-93**
+
+email: **funjunbauz@gmail.com**
+
+Telegram: **@JahariMedina**
+
+---
