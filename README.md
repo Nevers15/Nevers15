@@ -12,7 +12,7 @@
 ## Структура репозитория
 ---
 
-### Мои проекты Data Scientist / Data Analyst
+### Мои проекты Data Science / Data Analysis
 ---
 
 ### [Анализ значимости переходов по онлайн-объявлениям](https://github.com/Nevers15/p-value) 
