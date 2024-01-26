@@ -1,111 +1,123 @@
-# Портфолио Дата Сцаентиста / Аналитика Данных
+# Data Scientist / Data Analyst Portfolio
 ---
 
-Привет! Меня зовут Григорьев Семен, я Data Scientist и Data Analyst.
+Hello! My name is Semyon Grigor'ev, and i am a Data Scientist.
 
-В аналитику данных я пришёл из логистики, поэтому мне потребовалась профессиональная переподготовка. За короткий срок я смог добиться хороших результатов на курсе Нетологии "Аналитик данных с нуля до middle", где мне удалось получить диплом с наивысшей оценкой. После обучения я получил прекрасное рабочее место Аналитика данных на предприятии ПАО <<ТОАЗ>>, где мне пришлось с нуля строить атмосферу и инфраструктуру своей работы, так как до меня такой позиции не существовало. На новом рабочем месте мне удалось показать прекрасные результаты и проявить себя не только как Аналитика данных, но и как хорошего Data Scientist'а. По мере работы я стал оттачивать свои навыки в Data Science и решил уйти в это направление с головой, так как оно оказалось для меня интересней всего, что я делал реньше.
+I transitioned to data analytics from the field of logistics, so i underwent professional retraining. In a short period, i achieved excellent results in the Netology course "Data Analyst from Scratch to Middle," where i received a diploma with the highest grade. After completing the course, i secured a fantastic position as a Data Analyst at the enterprise of PJSC "TOAZ." Here, i had to build the atmosphere and infrastructure for my work from scratch, as such a position did not exist before. In my new role, i demonstrated outstanding results and showcased my abilities not only as a Data Analyst but also as a proficient Data Scientist. As i continued working, i honed my skills in Data Science and decided to fully embrace this direction, as it turned out to be more interesting than anything i had done before.
 
-В этом репозитории собраны выполненные мной проекты, демонстрирующие мои компетенции в сфере Data Science и Data Analysis. Пока это, преимущественно, итоговые работы, самостоятельно выполненные мной в процессе обучения на курсе Нетологии и проверенные экспертами, но также имеются и тестовые задания от разных компаний и задания которые мне удалось решить по мере изучения направления Data Science. В дальнейшем я планирую активно пополнять портфолио персональными проектами.
+This repository contains projects i have completed, demonstrating my competencies in the field of Data Science and Data Analysis. Currently, these are primarily final projects completed independently during the Netology course and verified by experts. Additionally, there are test assignments from various companies and tasks that i was able to solve as i explored the field of Data Science. In the future, i plan to actively expand my portfolio with personal projects.
 
-*Общее количество проектов в репозитории:* **7**
+*Total number of projects in the repository:* **8**
 
-## Структура репозитория
+## Repository Structure
 ---
 
-### Мои проекты Data Science / Data Analysis
+### My Data Science / Data Analysis Projects
 ---
 
-### [Анализ значимости переходов по онлайн-объявлениям](https://github.com/Nevers15/p-value) 
+### [Classifying Violations in Labor Protection and Industrial Safety](https://github.com/Nevers15/TOAZ_en) 
 
-Прекрасное практическое задание из учебника <<Data Science в действии>> написаного Леонардом Апельциным. В решении я определил потребности заказчика, его проблемы. Мне удалось проработать их, подойдя к проблеме математически.
+I present to you my work project created within the framework of internal audit and control in the field of Occupational Health and Industrial Safety. As part of the project, a model for classifying violations and failures of various equipment or structures at the enterprise was developed. The work received high praise and was subsequently implemented into the classification practices by the Occupational Health and Industrial Safety Automation Department.
 
-**Инструменты:** Python, Pandas, Numpy, scipy.stats
+**Tools:** Python, Pandas, SpaCy, Sklearn
 
-**Сфера деятельности:** Бизнес, маркетинг.
+**Industry:** Audit and Internal Control.
 
-**Направление деятельности:** Data Science.
-
----
-
-### [Анализ данных клеток рака](https://github.com/Nevers15/Cancer_Classification) 
-
-Мой дипломный проект из курса Нетологии, по которому я получил оценку отлично. В этом проекте описаны все шаги обработки, анализа и подбора эффективной модели классификации данных раковых клеток.
-
-**Инструменты:** Python, Pandas, Sklearn, Matplotlib.pyplot
-
-**Сфера деятельности:** Медицина, биология.
-
-**Направление деятельности:** Data Science / Data Analysis.
+**Field of Expertise:** Data Science.
 
 ---
 
-### [Тестовое задание Улыбка радуги](https://github.com/Nevers15/UlibkaRadugiTZ) 
+### [Analysis of the Significance of Transitions through Online Advertisements](https://github.com/Nevers15/p-value-en) 
 
-Улыбка радуги — крупная федеральная сеть магазинов по уходу за собой и за домом. Задание состояло из  трех частей. Первое это написание пяти SQL запросов. Задание по оценке результатов А/Б теста. Третье задание по очистке набора данных от выбросов. Я справился с поставленными задачами, но не с первого раза.
+A fantastic practical task from the book "Data Science in Action" by Leonard Apeltsin. In this solution, i identified the customer's needs and problems, working through them by approaching the problem mathematically.
 
-**Инструменты:** Python, Pandas, Sklearn. Matplotlib.pyplot, Keras, SQLite3
+**Tools:** Python, Pandas, Numpy, scipy.stats
 
-**Сфера деятельности:** Продуктовая аналитика.
+**Industry:** Business, Marketing.
 
-**Направление деятельности:** Data Analysis.
-
----
-
-### [Тестовое задание Saber Interactive](https://github.com/Nevers15/SaberInteractiveTest) 
-
-Saber Interactive — одна из ведущих игровых студий в мире. Мне посчастливилось сделать тестовое задание для данной кампании. Задание состояло из написания двух SQL запросов и написания одного интерактивного веб приложения на языке Python. Я успешно справился с поставленными задачами.
-
-**Инструменты:** Python, Pandas, Sklearn. Matplotlib.pyplot, Dash, SQLite3
-
-**Сфера деятельности:** Игровая аналитика.
-
-**Направление деятельности:** Data Analysis.
+**Field of Expertise:** Data Science.
 
 ---
 
-### [Анализ данных о сотрудниках компании](https://github.com/Nevers15/Pandas_Finals) 
+### [Analysis of Cancer Cell Data](https://github.com/Nevers15/Cancer_Classification_en) 
 
-Проект, демонстрирующий навыки владения Python, Pandas и базовых визуализаций.
+This is my graduation project from the Netology course, for which i received an excellent grade. The project encompasses all the steps of processing, analysis, and selection of an effective model for the classification of cancer cell data.
 
-**Инструменты:** Python, Pandas, Sklearn, Matplotlib.pyplot
+**Tools:** Python, Pandas, Sklearn, Matplotlib.pyplot
 
-**Сфера деятельности:** HR, ресурсы компании.
+**Industry:** Medicine, Biology.
 
-**Направление деятельности:** Data Analysis.
-
----
-
-### [Анализ данных по оттоку клиентов сервиса Amazon](https://github.com/Nevers15/Amazon_Transaction) 
-
-Проект, нацеленный на анализ датасета без сопроводительной информации, определение заказчика и его болей в бизнесе. Проект демонстрирует навыки в анализе данных, а также знания SQL.
-
-**Инструменты:** Python, Pandasql, SQL, Matplotlib.pyplot
-
-**Сфера деятельности:** Маркетинг-аналитик.
-
-**Направление деятельности:** Data Analysis.
+**Field of Expertise:** Data Science / Data Analysis.
 
 ---
 
-### [Анализ данных о клиентах онлайн кинотеатра](https://github.com/Nevers15/Big_Data_Analysis) 
+### ["Ulybka Radugi" Test Assignment](https://github.com/Nevers15/UlibkaRadugiTz_en) 
 
-Работа связанная с построением модели линейной регрессии для предсказания оценки клиентов онлайн кинотеатра. В основе проект демонстрирует мои навыки в использовании следующих инструментов: Excel, Pandas, Spark, SQL.
+"Ulybka Radugi" is a large federal network of stores for personal and home care. The assignment consisted of three parts. The first part involved writing five SQL queries. The second part was about evaluating the results of an A/B test. The third task focused on cleaning the dataset from outliers. I successfully completed the assigned tasks, although not on the first attempt.
 
-**Инструменты:** Python, Pandas, Excel, SQL, Pyspark
+**Tools:** Python, Pandas, Sklearn, Matplotlib.pyplot, Keras, SQLite3
 
-**Сфера деятельности:** Маркетинг-аналитик.
+**Industry:** Product fnalytics.
 
-**Направление деятельности:** Data Science.
+**Field of Expertise:** Data Analysis.
+
+---
+
+### [Saber Interactive Test Assignment](https://github.com/Nevers15/SaberInteractiveTest_En) 
+
+Saber Interactive is one of the leading game studios in the world. I had the opportunity to complete a test assignment for this company. The assignment involved writing two SQL queries and developing an interactive web application in Python. I successfully accomplished the given tasks.
+
+**Tools:** Python, Pandas, Sklearn. Matplotlib.pyplot, Dash, SQLite3
+
+**Industry:** Game Analytics.
+
+**Field of Expertise:** Data Analysis.
+
+---
+
+### [Analysis of Company Employee Data](https://github.com/Nevers15/Pandas_Finals_en) 
+
+This project showcases skills in Python, Pandas, and basic visualizations.
+
+**Tools:** Python, Pandas, Sklearn, Matplotlib.pyplot
+
+**Industry:** HR, company resources.
+
+**Field of Expertise:** Data Analysis.
+
+---
+
+### [Analysis of Customer Churn Data for Amazon Service](https://github.com/Nevers15/Amazon_Transaction_en) 
+
+This project is aimed at analyzing a dataset without accompanying information, identifying the customer and their pain points in the business. The project demonstrates skills in data analysis as well as knowledge of SQL.
+
+**Tools:** Python, Pandasql, SQL, Matplotlib.pyplot
+
+**Industry:** Marketing analytics.
+
+**Field of Expertise:** Data Analysis.
+
+---
+
+### [Online Cinema Customer Data Analysis](https://github.com/Nevers15/Big_Data_Analysis_en) 
+
+A project involving the construction of a linear regression model to predict customer ratings for an online cinema. The project demonstrates my skills in using the following tools: Excel, Pandas, Spark, SQL.
+
+**Tools:** Python, Pandas, Excel, SQL, Pyspark
+
+**Industry:** Marketing analytics.
+
+**Field of Expertise:** Data Science.
 ##
-### [Мои свидетельства и сертификаты](https://github.com/Nevers15/Certificates)
+### [My Certificates and Credentials](https://github.com/Nevers15/Certificates_en/tree/main)
 
 ##
 
-#### Мои контакты:
-
-телефон: **+7 (901) 943-17-93**
+#### My contacts:
 
 email: **funjunbauz@gmail.com**
+
+Linkedin: **https://clck.ru/36eaVQ**
 
 Telegram: **@JahariMedina**
 
