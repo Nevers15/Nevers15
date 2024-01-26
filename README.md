@@ -15,6 +15,18 @@ This repository contains projects i have completed, demonstrating my competencie
 ### My Data Science / Data Analysis Projects
 ---
 
+### [Implementation of the Exponential Family with Examples](https://github.com/Nevers15/Exp_fam/tree/main) 
+
+The Exponential Family has many practical applications in statistics and machine learning. It is a unified family of distributions that contains most of the standard discrete and continuous distributions used for practical modeling. In my project, I am studying the Exponential Family on practical examples where I try to consider a unique case in which this distribution is used. In my examples, I used the following distributions: Poisson Distribution, Exponential Distribution, Gamma Distribution, Beta Distribution, Geometric Distribution.
+
+**Tools:** Python, Scipy.stats, Numpy, Matplotlib.pyplot
+
+**Industry:** Machine Learning, Statistics.
+
+**Field of Expertise:** Data Science, Data Analisys.
+
+---
+
 ### [Classifying Violations in Labor Protection and Industrial Safety](https://github.com/Nevers15/TOAZ_en) 
 
 I present to you my work project created within the framework of internal audit and control in the field of Occupational Health and Industrial Safety. As part of the project, a model for classifying violations and failures of various equipment or structures at the enterprise was developed. The work received high praise and was subsequently implemented into the classification practices by the Occupational Health and Industrial Safety Automation Department.
