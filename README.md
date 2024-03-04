@@ -7,7 +7,7 @@ Starting from the begining, i transitioned to data analytics from the field of l
 
 This repository contains projects i have completed, demonstrating my competencies in the field of Data Science and Data Analysis. Currently, these are primarily final projects completed independently during the Netology course and verified by experts. Additionally, there are test assignments from various companies and tasks that i was able to solve as i explored the field of Data Science. In the future, i plan to actively expand my portfolio with personal projects.
 
-*Total number of projects in the repository:* **9**
+*Total number of projects in the repository:* **10**
 
 ## Repository Structure
 ---
