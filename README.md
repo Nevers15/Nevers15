@@ -15,6 +15,18 @@ This repository contains projects i have completed, demonstrating my competencie
 ### My Data Science / Data Analysis Projects
 ---
 
+### [Unsupervised Sentiment Analisys of Smartphone Reviews](https://github.com/Nevers15/NLP_Sent) 
+
+The main goal of the project was to classify comments under smartphone models from an online store as negative or positive. To achieve this, a pre-trained algorithm was used, which multiplied the sentiment score by the corresponding cluster value and then by the TF-IDF value. The algorithm worked with unlabeled data, leading to some errors in its evaluation. However, the analysis revealed that the algorithm's performance is highly dependent on the language being analyzed.
+
+**Tools:** Python, Pandas, Numpy, Spacy, matplotlib.pyplot, sklearn, Word2Vec
+
+**Industry:** Business, Marketing.
+
+**Field of Expertise:** Data Science.
+
+---
+
 ### [Implementation of the Exponential Family with Examples](https://github.com/Nevers15/Exp_fam/tree/main) 
 
 The Exponential Family has many practical applications in statistics and machine learning. It is a unified family of distributions that contains most of the standard discrete and continuous distributions used for practical modeling. In my project, I am studying the Exponential Family on practical examples where I try to consider a unique case in which this distribution is used. In my examples, I used the following distributions: Poisson Distribution, Exponential Distribution, Gamma Distribution, Beta Distribution, Geometric Distribution.
