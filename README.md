@@ -15,7 +15,7 @@ This repository contains projects i have completed, demonstrating my competencie
 ### My Data Science / Data Analysis Projects
 ---
 
-### [Unsupervised Sentiment Analisys of Smartphone Reviews](https://github.com/Nevers15/NLP_Sent) 
+### [Unsupervised Sentiment Analisys of Smartphone Reviews (NLP)](https://github.com/Nevers15/NLP_Sent) 
 
 The main goal of the project was to classify comments under smartphone models from an online store as negative or positive. To achieve this, a pre-trained algorithm was used, which multiplied the sentiment score by the corresponding cluster value and then by the TF-IDF value. The algorithm worked with unlabeled data, leading to some errors in its evaluation. However, the analysis revealed that the algorithm's performance is highly dependent on the language being analyzed.
 
