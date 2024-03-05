@@ -17,7 +17,7 @@ This repository contains projects i have completed, demonstrating my competencie
 
 ### [Unsupervised Sentiment Analisys of Smartphone Reviews (NLP)](https://github.com/Nevers15/NLP_Sent) 
 
-The main goal of the project was to classify comments under smartphone models from an online store as negative or positive. To achieve this, a pre-trained algorithm was used, which multiplied the sentiment score by the corresponding cluster value and then by the TF-IDF value. The algorithm worked with unlabeled data, leading to some errors in its evaluation. However, the analysis revealed that the algorithm's performance is highly dependent on the language being analyzed.
+The main goal of the project was to classify comments under smartphone models from an online store as negative or positive. To achieve this, unsupervised algorithm was used, which multiplied the sentiment score of each word by the corresponding cluster value and then by the TF-IDF value of each word. The algorithm worked with unlabeled data, leading to some errors in its evaluation. However, the analysis revealed that the algorithm's performance is highly dependent on the language being analyzed.
 
 **Tools:** Python, Pandas, Numpy, Spacy, matplotlib.pyplot, sklearn, Word2Vec
 
