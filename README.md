@@ -19,7 +19,7 @@ This repository contains projects i have completed, demonstrating my competencie
 
 The main goal of the project was to classify comments under smartphone models from an online store as negative or positive. To achieve this, unsupervised algorithm was used, which multiplied the sentiment score of each word by the corresponding cluster value and then by the TF-IDF value of each word. The algorithm worked with unlabeled data, leading to some errors in its evaluation. However, the analysis revealed that the algorithm's performance is highly dependent on the language being analyzed.
 
-**Tools:** Python, Pandas, Numpy, Spacy, matplotlib.pyplot, sklearn, Word2Vec
+**Tools:** Python, Pandas, Numpy, Spacy, Matplotlib.pyplot, Sklearn, Gensim.Word2Vec
 
 **Industry:** Business, Marketing.
 
