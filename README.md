@@ -6,6 +6,7 @@ Hello! My name is Semyon Grigor'ev, and i am a Data Scientist.
 This repository contains projects i have completed, demonstrating my competencies in the field of Data Science and Data Analysis. Primarily, this repository serves as a cheat sheet for me in my current job and for future employment opportunities.
 
 My Python hard-skills: Pandas, Numpy, Statsmodels, Scikit-learn, Pmdarima, Spacy, Scipy.stats, Gensim.Word2Vec, LSTM, PM4PY, Matplotlib, PySpark.
+
 Additional hard-skills: Power BI *(DAX, Power Query M)*, Tableau, SQL *(SQLite, MsSQL, MySQL, Postgres)*, Docker, GIT.
 
 *Total number of projects in the repository:* **11**
