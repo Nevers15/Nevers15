@@ -83,7 +83,7 @@ This is my graduation project from the Netology course, for which i received an 
 
 **Industry:** Medicine, Biology.
 
-**Field of Expertise:** Data Science / Data Analysis.
+**Field of Expertise:** Data Science, Data Analysis.
 
 ---
 
