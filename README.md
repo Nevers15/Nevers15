@@ -3,9 +3,10 @@
 
 Hello! My name is Semyon Grigor'ev, and i am a Data Scientist.
 
-Starting from the begining, i transitioned to data analytics from the field of logistics, so i underwent professional retraining. In a short period, i achieved excellent results in the Netology course "Data Analyst from Scratch to Middle," where i received a diploma with the highest grade. After completing the course, i secured a fantastic position as a Data Analyst at the enterprise of PJSC "TOAZ." Here, i had to build the atmosphere and infrastructure for my work from scratch, as such a position did not exist in this place before. In my new role, i demonstrated outstanding results and showcased my abilities not only as a Data Analyst but also as a proficient Data Scientist. As i continued working, i honed my skills in Data Science and decided to fully embrace this direction, as it turned out to be more interesting than anything i had done before.
-
 This repository contains projects i have completed, demonstrating my competencies in the field of Data Science and Data Analysis. Primarily, this repository serves as a cheat sheet for me in my current job and for future employment opportunities.
+
+My Python hard-skills: Pandas, Numpy, Statsmodels, Scikit-learn, Pmdarima, Spacy, Scipy.stats, Gensim.Word2Vec, LSTM, PM4PY, Matplotlib, PySpark.
+Additional hard-skills: Power BI *(DAX, Power Query M)*, Tableau, SQL *(SQLite, MsSQL, MySQL, Postgres)*, Docker, GIT.
 
 *Total number of projects in the repository:* **11**
 
