@@ -7,7 +7,7 @@ This repository contains projects i have completed, demonstrating my competencie
 
 Here is the list of my hard-skills.
 
-My Python hard-skills: Pandas, Numpy, PyTorch, TensorFlow, Statsmodels, Scikit-learn, Pmdarima, Spacy, Scipy.stats, Gensim.Word2Vec, LSTM, PM4PY, Matplotlib, PySpark.
+My Python hard-skills: Pandas, Numpy, PyTorch, TensorFlow, Statsmodels, CatBoost, Scikit-learn, Pmdarima, Spacy, Scipy.stats, Gensim.Word2Vec, LSTM, PM4PY, Matplotlib, PySpark.
 
 Additional hard-skills: Power BI *(DAX, Power Query M)*, Tableau, SQL *(SQLite, MsSQL, MySQL, Postgres)*, Docker, GIT.
 
