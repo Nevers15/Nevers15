@@ -21,7 +21,7 @@ Additional hard-skills: Power BI *(DAX, Power Query M)*, Tableau, SQL *(SQLite, 
 
 ### ["TOAZ" Payroll Fund Timeseries Forecasting Using SARIMA](https://github.com/Nevers15/ARIMA/tree/main) 
 
-For this project, I collected and anonymized payroll data from the "TOAZ" company, where I was employed at the time of working on the project. The main idea was to develop an algorithm to predict changes in the payroll fund for the entire year of 2024. As a result, the model performs very well and accurately predicts three months ahead.
+For this project, I collected and anonymized payroll data from the "TOAZ" company, where I was employed at the time of working on the project. The main idea was to develop an algorithm to predict changes in the payroll fund for the entire year of 2024. As a result, the model performs very well and accurately predicts four months ahead.
 
 **Tools:** Python, Pandas, Numpy, Statsmodels, Pmdarima, Dateutil, Matplotlib.pyplot
 
