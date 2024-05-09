@@ -55,7 +55,7 @@ The Exponential Family has many practical applications in statistics and machine
 
 ---
 
-### [Classifying Violations in Labor Protection and Industrial Safety](https://github.com/Nevers15/TOAZ_en) 
+### ["TOAZ" Classifying Violations in Labor Protection and Industrial Safety](https://github.com/Nevers15/TOAZ_en) 
 
 I present to you my work project created within the framework of internal audit and control in the field of Occupational Health and Industrial Safety. As part of the project, a model for classifying violations and failures of various equipment or structures at the enterprise was developed. The work received high praise and was subsequently implemented into the classification practices by the Occupational Health and Industrial Safety Automation Department.
 
