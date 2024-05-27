@@ -9,7 +9,7 @@ Here is the list of my hard-skills.
 
 My Python hard-skills: Pandas, Numpy, PyTorch, TensorFlow, Statsmodels, CatBoost, Scikit-learn, Pmdarima, Spacy, Scipy.stats, Gensim.Word2Vec, LSTM, PM4PY, Matplotlib, PySpark.
 
-Additional hard-skills: Power BI *(DAX, Power Query M)*, Tableau, SQL *(SQLite, MsSQL, MySQL, Postgres)*, Docker, GIT.
+Additional hard-skills: Power BI *(DAX, Power Query M)*, Tableau, SQL *(SQLite, MySQL, Postgres)*, T-SQL, Docker, GIT.
 
 *Total number of projects in the repository:* **12**
 ##
