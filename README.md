@@ -25,6 +25,8 @@ Additional hard-skills: Power BI *(DAX, Power Query M)*, Tableau, SQL *(SQLite, 
 
 This was my first participation in a hackathon, in which we built a beautiful algorithm for finding anomalies and the metrics correlated with these anomalies. The algorithm takes a raw dataset as input, and the operator receives a table as output with time intervals and corresponding metrics that they should pay attention to. The algorithm allowed my team, consisting of two people including myself, to take the third place prize.
 
+I would like to express my gratitude to the colleague who made an invaluable contribution to the creation of this project: [Pirogov Dmitriy](https://github.com/PirogovDmitriy/) 
+
 **Tools:** Python, Pandas, Numpy, Sklearn, Matplotlib.pyplot
 
 **Industry:** Telemetry, Traffic.
