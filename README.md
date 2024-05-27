@@ -12,6 +12,8 @@ My Python hard-skills: Pandas, Numpy, PyTorch, TensorFlow, Statsmodels, CatBoost
 Additional hard-skills: Power BI *(DAX, Power Query M)*, Tableau, SQL *(SQLite, MsSQL, MySQL, Postgres)*, Docker, GIT.
 
 *Total number of projects in the repository:* **11**
+##
+### [My Certificates and Credentials](https://github.com/Nevers15/Certificates_en/tree/main)
 
 ## Repository Structure
 ---
@@ -148,9 +150,6 @@ A project involving the construction of a linear regression model to predict cus
 **Industry:** Marketing analytics.
 
 **Field of Expertise:** Data Science.
-##
-### [My Certificates and Credentials](https://github.com/Nevers15/Certificates_en/tree/main)
-
 ##
 
 #### My contacts:
