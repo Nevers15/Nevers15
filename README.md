@@ -14,6 +14,8 @@ Additional hard-skills: Power BI *(DAX, Power Query M)*, Tableau, SQL *(SQLite, 
 *Total number of projects in the repository:* **11**
 ##
 ### [My Certificates and Credentials](https://github.com/Nevers15/Certificates_en/tree/main)
+
+### [Participation in Data Science hackathons](https://github.com/Nevers15/Certificates_en/tree/main)
 ---
 
 ### My Data Science / Data Analysis Projects
