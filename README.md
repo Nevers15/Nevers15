@@ -11,7 +11,7 @@ My Python hard-skills: Pandas, Numpy, PyTorch, TensorFlow, Statsmodels, CatBoost
 
 Additional hard-skills: Power BI *(DAX, Power Query M)*, Tableau, SQL *(SQLite, MsSQL, MySQL, Postgres)*, Docker, GIT.
 
-*Total number of projects in the repository:* **11**
+*Total number of projects in the repository:* **12**
 ##
 ### [My Certificates and Credentials](https://github.com/Nevers15/Certificates_en/tree/main)
 
@@ -19,6 +19,18 @@ Additional hard-skills: Power BI *(DAX, Power Query M)*, Tableau, SQL *(SQLite, 
 ---
 
 ### My Data Science / Data Analysis Projects
+---
+
+### [Hacathon1: Development of a model for finding correlations in data](https://github.com/Nevers15/hacathon1) 
+
+This was my first participation in a hackathon, in which we built a beautiful algorithm for finding anomalies and the metrics correlated with these anomalies. The algorithm takes a raw dataset as input, and the operator receives a table as output with time intervals and corresponding metrics that they should pay attention to. The algorithm allowed my team, consisting of two people including myself, to take the third place prize.
+
+**Tools:** Python, Pandas, Numpy, Sklearn, Matplotlib.pyplot
+
+**Industry:** Telemetry, Traffic.
+
+**Field of Expertise:** Data Science.
+
 ---
 
 ### ["TOAZ" Payroll Fund Timeseries Forecasting Using SARIMA](https://github.com/Nevers15/ARIMA/tree/main) 
