@@ -5,7 +5,7 @@
 ### Мое портфолио разделено на две части, все что связано с проектами BI-аналитики и все что связано с Data Science проектами. 
 ### Вы можете выбрать интересующее направление по ссылкам ниже:
 
-### [Портфолио BI-аналитика](https://github.com/Nevers15/BI-DS/blob/main)
+### [Портфолио BI-аналитика](https://github.com/Nevers15/BI-Analysis/blob/main)
 
 ### [Портфолио Data Science](https://github.com/Nevers15/BI-DS/blob/main)
 ---
