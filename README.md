@@ -1,7 +1,7 @@
-# Добро пожаловать
+# Добрый день! Мое портфолио разделено на две части, все что связано с проектами BI-аналитики и все что связано с Data Science проектами. Выбор интересующего направления по ссылкам ниже.
 ---
 ##
-### [Портфолио DS](https://github.com/Nevers15/BI-DS/blob/main)
+### [Портфолио BI-аналитика](https://github.com/Nevers15/BI-DS/blob/main)
 
-### [Портфолио BI](https://github.com/Nevers15/BI-DS/blob/main)
+### [Портфолио Data Science](https://github.com/Nevers15/BI-DS/blob/main)
 ---
