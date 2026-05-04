@@ -7,5 +7,5 @@
 
 ### [Портфолио BI-аналитика](https://github.com/Nevers15/BI-Analysis/blob/main)
 
-### [Портфолио Data Science](https://github.com/Nevers15/BI-DS/blob/main)
+### [Портфолио Аналитика данных](https://github.com/Nevers15/BI-DS/blob/main)
 ---
